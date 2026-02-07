@@ -1,24 +1,21 @@
-# Suuqa24/7 Marketplace App 🇸🇴
+# Suuqa24/7 – Marketplace & Marketing App
 
-Suuqa24/7 is a cross-platform marketplace app for Somalia with an integrated marketing-services module.
+Production-ready Flutter application built for Somali businesses.
 
-## Features
-- Browse listings with image-first UI
-- WhatsApp ordering and inquiries
-- Hidden Admin Panel (CRUD operations)
-- Firebase Realtime Database backend
-- Somali & English localization
-- UPSOM Marketing module for service booking
+## Overview
+A cross-platform mobile app combining marketplace listings, real estate, hotel booking,
+and professional marketing services in one system.
+
+## Key Features
+- Marketplace (products, rentals, hotels)
+- Admin panel with real-time control
+- WhatsApp automation for orders and requests
+- Offline-safe UX
+- Somali & English language support
 
 ## Tech Stack
-- Flutter + Dart
+- Flutter (Material 3)
 - Firebase Realtime Database
-- url_launcher
-- Material 3 UI
-- ARB localization (intl)
+- WhatsApp API
 
-## Screenshots
-(Add screenshots here)
-
-## Status
-Client-ready MVP, scalable for production launch.
+Built as a real business MVP, ready for scaling.
